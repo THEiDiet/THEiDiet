@@ -2,9 +2,9 @@
 
 ![Codewars](https://www.codewars.com/users/Al969kravets/badges/small)
 
-## I'm a beginner React frontend developer 
+## Hi there ( •̀ ω •́ )✧ I'm a frontend React developer 
 
-### Languages and tools
+### Used languages and tools
 
 ![React](https://img.shields.io/badge/-React-331D2F?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-331D2F?style=for-the-badge&logo=redux)
@@ -13,7 +13,7 @@
 ![Sass](https://img.shields.io/badge/-SASS-331D2F?style=for-the-badge&logo=Sass)
 ![Postgresql](https://img.shields.io/badge/-postgresql-331D2F?style=for-the-badge&logo=postgresql)
 
-### Follow me
+### Follow me (. ❛ ᴗ ❛.)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-331D2F?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kravetss_alex/)
 [![Telegram](https://img.shields.io/badge/-Telegram-331D2F?style=for-the-badge&logo=Telegram)](https://t.me/alex_kravets)
